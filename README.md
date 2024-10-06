@@ -12,6 +12,8 @@
 
 Этот одностраничный сайт предназначен для продажи блюд быстрого приготовления. Он написан с использованием языков разметки HTML & CSS, а также адаптирован под мобильные устройства, что позволяет удобно пользоваться сайтом на телефонах и планшетах.
 
+[Макет на figma](https://www.figma.com/design/7qcTnef9dMwK473FtCYBHT/maket-Burger-Landing?node-id=0-1&node-type=canvas&t=5ZSOYrFNqYGdd3Zs-0)
+
 ## Разработчики
 
 - [Klochkov Timofey](https://github.com/KlochkovTimofey)
